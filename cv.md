@@ -61,7 +61,7 @@ Engineering and Natural Sciences, Information Systems
 **Languages:**
  * Kazakh — Native
  * English — A2 — Pre Intermediate
- * Russian — B2 — Upper Intermediate
+ * Russian — B1 — Intermediate
 
 **Skills:**
  * AutoCAD
